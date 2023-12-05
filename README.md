@@ -7,7 +7,7 @@ December 4, 2023
 
 Talk about the language you choose, why, and what you decide to try to build it with? 
 
-My selected language for this final presentation is focused on Python. The purpose of producing my final in Python stems from the idea of my friends and patients. I have friends in the industry that codes in Python. Which is loved because of  the flexibility and how easy it is on the eyes. Serving patients in the Seattle area, I've met numerous software engineers and 4 of the highly suggested language is Javascript, Java, Go and Python. My final is called Winter Scrimmage II, this idea is rooted from Computer Programming I. This was one of the extra credit assignment titled "Personal Project" With constructing this renovated game with Python was an experience. 
+My selected language for this final presentation is focused on Python. The purpose of producing my final in Python stems from the idea of my friends and patients. I have friends in the industry that codes in Python. Which is loved because of  the flexibility and how easy it is on the eyes. Serving patients in the Seattle area, I've met numerous software engineers and 4 of the highly suggested language is Javascript, Java, Go and Python. My final is called Winter Scrimmage II, this idea is rooted from Computer Programming I. This was one of the extra credit assignment titled "Personal Project". Constructing this renovated game with Python was an experience. 
 
 Tell us about your project. Your grade will not necessarily be based on "completeness".
 
